@@ -5,6 +5,15 @@
 
 ### Projeto Criado para Fazer Salas  de pergutas e resposta em tempo Real.
 
+Para Inicialo siga os passos abaixo
+
+# Instalar as dependências
+$ yarn
+
+# Iniciar o projeto
+$ yarn start
+
+
 🧪 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
