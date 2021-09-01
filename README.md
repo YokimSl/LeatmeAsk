@@ -12,6 +12,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 + FireBase
 + TypeScript
 
+Autenticação 
+login Com Conta Google
+
+Funcionalidades
+Apenas ADM pode excluir perguntas, e marca como Respondida.
+
 💻 Projeto
 LeatmeAsk é Algo perfeito para escolas aonde alunos podem cria salas com suas Duvidas, e os professores respoderem.
 
