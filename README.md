@@ -5,12 +5,12 @@
 
 ### Projeto Criado para Fazer Salas  de pergutas e resposta em tempo Real.
 
-Para Inicialo siga os passos abaixo
+<h1>Para Inicialo siga os passos abaixo</h1>
 
-# Instalar as dependências
+ Instalar as dependências
 $ yarn
 
-# Iniciar o projeto
+ Iniciar o projeto
 $ yarn start
 
 
